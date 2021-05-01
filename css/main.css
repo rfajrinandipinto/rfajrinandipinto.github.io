@@ -66,7 +66,7 @@ body {
 }
 
 .left-col h1 {
-  font-size: 2.5em;
+  font-size: 2.3em;
   line-height: 1.3em;
   margin-top: .2em;
 }
@@ -299,12 +299,12 @@ nav li a:hover {
     margin: 3em 3em 0 5em;
   }
   .left-col h1 {
-    font-size: 3em;
+    font-size: 2.9em;
     width: 90%;
   }
   .hero-img {
-    width: 30%;
-    margin-right: 8em;
+    width: 60%;
+    margin-right: 5em;
   }
   .hero-cta {
     display: -webkit-box;
@@ -332,7 +332,7 @@ nav li a:hover {
     display: block;
     position: absolute;
     right: 0;
-    width: 350px;
+    width: 450px;
     bottom: -2em;
   }
   .testimonials-section ul {
